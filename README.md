@@ -1,2 +1,2 @@
-# ML-Projects-for-fun-Kaggle-
-My repository where i post about my codes I used for Kaggle Competitions
+# My Pandas Learning Jupyter Notebook
+This repository contains my knowledge and tutorials on using pandas, organized in a learnable format within a Jupyter Notebook.
